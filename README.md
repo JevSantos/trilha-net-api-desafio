@@ -1,10 +1,12 @@
 # DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+<www.dio.me>
 
 ## Desafio de projeto
+
 Utilizaão do Entity Framework e API para conclusão da unidade.
 
 ## Contexto
+
 Sistema gerenciador de tarefas para cadastrar lista de tarefas.
 
 Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
@@ -12,13 +14,9 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obt
 ![Diagrama da classe Tarefa](diagrama.png)
 
 **Swagger**
-
-
 ![Métodos Swagger](swagger.png)
 
-
 **Endpoints**
-
 
 | Verbo  | Endpoint                | Parâmetro | Body          |
 |--------|-------------------------|-----------|---------------|
